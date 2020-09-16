@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1eb0c9b5-4244-4726-a482-3bdaca5a2659" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fAH3pRmNWxIJoaaD2e0AlXicAa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/laravel/my-laravel" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.test.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1eb0c9b5-4244-4726-a482-3bdaca5a2659" name="Default Changelist" comment="" />
+      <created>1595653780336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595653780336</updated>
+      <workItem from="1595653782515" duration="25000" />
+      <workItem from="1595654406937" duration="27000" />
+      <workItem from="1595658971114" duration="18185000" />
+      <workItem from="1595679339078" duration="642000" />
+      <workItem from="1595707453897" duration="83000" />
+      <workItem from="1595717381599" duration="14602000" />
+      <workItem from="1595736614499" duration="4916000" />
+      <workItem from="1595750224103" duration="957000" />
+      <workItem from="1595753389385" duration="495000" />
+      <workItem from="1595756386665" duration="32000" />
+      <workItem from="1595798415577" duration="19820000" />
+      <workItem from="1595834096906" duration="2888000" />
+      <workItem from="1595838797945" duration="609000" />
+      <workItem from="1596087495795" duration="12259000" />
+      <workItem from="1596161543517" duration="61000" />
+      <workItem from="1596185701411" duration="4065000" />
+      <workItem from="1596191280263" duration="3628000" />
+      <workItem from="1596238600127" duration="62000" />
+      <workItem from="1596326259380" duration="5047000" />
+      <workItem from="1596496184345" duration="114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1595660166723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1595660166723" />
+    <state x="717" y="0" width="588" height="728" key="#PHP" timestamp="1595659114244">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="717" y="0" width="588" height="728" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1595659114244" />
+    <state x="713" y="56" key="#test.php" timestamp="1595736671773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="713" y="56" key="#test.php/0.0.1366.728@0.0.1366.728" timestamp="1595736671773" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1596161601749">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596161601749" />
+    <state x="833" y="283" key="NewPhpFileDialog" timestamp="1595659133408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="833" y="283" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1595659133407" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1595670169814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595670169814" />
+    <state x="741" y="165" width="672" height="677" key="run.anything.popup" timestamp="1596188507067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="741" y="165" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1596188507067" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596096323564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596096323564" />
+  </component>
+</project>

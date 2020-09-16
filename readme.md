@@ -1,0 +1,1 @@
+This is a clone website of loans2go purely HTML, CSS and Javascript

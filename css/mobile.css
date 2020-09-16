@@ -1,0 +1,311 @@
+@media only screen and (max-width: 1010px){
+
+    /*Header: Nav*/
+
+    #nav-bar{
+        position: relative;
+    }
+
+    #nav-bar .nav-container{
+        grid-template-columns: 4fr 1fr;
+        padding: 1rem;
+    }
+
+    #nav-bar .nav-container .logo{
+        justify-self: center;
+    }
+
+    #nav-bar .nav-container .burger-menu{
+        display: inline-block;
+        justify-self: right;
+        cursor: pointer;
+        transition: opacity .4s ;
+        position: relative;
+    }
+
+    #nav-bar .nav-container .burger-menu:hover{
+        opacity: .7;;
+    }
+
+    #nav-bar .nav-container .burger-menu div{
+        width: 35px;
+        height: 5px;
+        background-color: var(--white-primary);
+        margin: 6px 0;
+    }
+
+    #nav-bar .dropdown-menu{
+        position: absolute;
+
+        z-index: 20;
+        top: 54px;
+        right: 40px;
+        border-radius: 5px;
+        border: 1px solid var(--grey-light-primary);
+        background-color: var(--white-primary);
+        width: 200px;
+
+    }
+
+    #nav-bar .dropdown-menu li{
+        border-bottom: 1px solid var(--grey-light-primary);
+        padding: 1rem;
+        text-align: center;
+    }
+
+    #nav-bar .dropdown-menu li:last-child{
+        border:none;
+    }
+
+    #nav-bar .dropdown-menu a{
+        font-size: 14px;
+        color: var(--grey-primary-alt);
+        font-weight: bold;
+    }
+
+    #nav-bar .dropdown-menu a:hover{
+        color: var(--orange-primary);
+    }
+
+    #nav-bar .nav-container .call-text, #nav-bar .nav-container .call-number{
+        display: none;
+    }
+
+    #nav-bar .nav-container .nav-list{
+        display: none;
+    }
+
+    /* Header: Showcase */
+
+    #showcase{
+        height: 100%;
+    }
+
+    #showcase .showcase-content-container .showcase-content h1{
+        margin-top: 30px;
+    }
+
+    #showcase .showcase-content-container form{
+        margin-top: 50px;
+    }
+
+    #showcase .layer{
+        z-index: -1;
+    }
+
+    /* Benefits */
+    #info-3 .benefits{
+        grid-template-columns: 1fr;
+    }
+
+    #info-3 .benefits ul{
+        margin-bottom: 3rem;
+    }
+
+    #info-3 .benefits ul:last-child{
+        margin-bottom: 0;
+    }
+
+    /* Section: Info - 5*/
+
+    /* Section: Info-5*/
+    #info-5 .info-5-container{
+        grid-template-columns: 1fr;
+        align-items: center;
+        justify-content: center;
+        padding: 1rem;
+    }
+
+    #info-5 .info-5-container img {
+        display: none;
+    }
+
+
+    /* Footer */
+
+    #main-footer .footer-links{
+        grid-template-columns: repeat(2, 1fr);
+        justify-content: center;
+    }
+
+
+    #main-footer .footer-links ul:nth-child(3), #main-footer .footer-links ul:nth-child(4) {
+        margin-top: 2rem;
+    }
+
+
+/* ------------------------------------------    Page About----------------------------------------  */
+
+/*    Section: Team */
+    #clients .testimonials-container{
+        grid-template-columns: repeat(2, 1fr);
+        padding: 0 1.5rem;
+    }
+
+    #clients .testimonials-container .testimonial{
+        margin-bottom: 1.5rem;
+    }
+
+    #clients .testimonials-container .testimonial:last-child{
+        margin-bottom: 0;
+    }
+
+    #regulated .authorities-container{
+        grid-template-columns: 1fr;
+        padding: 0 1.5rem;
+    }
+
+    #regulated .authorities-container .authority{
+        margin-bottom: 1.5rem;
+    }
+
+    #regulated .authorities-container .authority:last-child{
+        margin-bottom: 0;
+    }
+
+
+/*--------------------------------------------------------------------    Page: Contact--------------------------------*/
+
+    #contact .contact-container{
+        grid-template-columns: 1fr;
+    }
+
+    #contact .contact-container .contact-content{
+        margin-bottom: 1.5rem;
+    }
+
+/*    -------------------------------- Page: News ------------------------------*/
+
+
+    #news .search-form input{
+        width: 100%;
+    }
+
+    #news .search-form img{
+        right:35px;
+    }
+
+}
+
+@media only screen and (max-width: 843px){
+
+    #nav-bar .dropdown-menu{
+        display: none;
+    }
+
+
+    /* Header: showcase */
+    #showcase{
+        height: 100%;
+    }
+
+    #showcase .showcase-content-container .showcase-content{
+        z-index: 12;
+    }
+
+    #showcase .showcase-content-container .showcase-content h1{
+        margin-top: 30px;
+    }
+
+    #showcase .showcase-content-container{
+        grid-template-columns: 1fr;
+    }
+
+    #showcase .showcase-content-container form{
+        margin-top: 25px;
+    }
+
+    #showcase .layer{
+        z-index: -1;
+    }
+
+    /* Section: Why */
+
+    #why{
+        height: 100%;
+    }
+
+    #why .why-content {
+        grid-template-columns: 1fr;
+    }
+
+    #why .why-content article{
+        margin-top: 1rem;
+    }
+
+    /*Section: info-1*/
+    #info-1{
+        height: 100%;
+        padding: 4rem;
+    }
+
+    /*Section: Info-2*/
+    #info-2 .info-2-container .info2-content{
+        grid-template-columns: 1fr;
+    }
+
+    #info-2 .info-2-container > *:last-child{
+        margin-top: 2rem;
+    }
+
+    /* Section: Info-3 */
+    #info-3 .info-content{
+        grid-template-columns: 1fr;
+    }
+
+    /* Section: Info-4 */
+    #info-4 .info-4-container{
+        grid-template-columns: 1fr;
+    }
+
+    /* Footer */
+
+    #main-footer .footer-links{
+        grid-template-columns: 1fr;
+        justify-content: center;
+    }
+
+
+/*---------------------------------------------------   Page: About  -----------------------------------------------------*/
+
+/*    Section: Team*/
+#team .about-team-container{
+    grid-template-columns: 1fr;
+    padding: 0 1.5rem;
+}
+
+#clients .testimonials-container{
+    grid-template-columns: 1fr;
+    padding: 0 1.5rem;
+}
+
+/*---------------------------------------------------- Page: Contact--------------------------------------------*/
+
+    #contact form .form-group:first-child  input{
+        display: block !important;
+        width: 100% !important;
+
+    }
+
+    #contact form .form-group:first-child  input:first-child{
+        margin-bottom: 2rem;
+    }
+
+
+/*    ------------------------------------------------Page: News ---------------------------------------------------*/
+
+    #news .news-container{
+        grid-template-columns: 1fr;
+    }
+
+    #news aside .add-loan-img{
+        width: 100%;
+    }
+
+    #news .news-container .news-content .card{
+        margin-bottom: 4rem;
+    }
+
+}
+
+
